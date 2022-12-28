@@ -8,4 +8,5 @@ IS-Evaluate the capability of mutual funds invested in domestic stocks to be man
 และไม่อยู่ในการบริหารโดยธนาคารพาณิชย์ว่ากองทุนไหนมีความสามารถในการดำเนินงานกองทุนดีกว่ากันโดยวัดผลการดำเนินงานจากการหาอตัราผลตอบแทน ความเสี่ยงค่าสัมประสิทธิ์แปรผันมาตรวดผลการดำเนินงานตาม
 มาตรตัวแบบ Sharpe, Treynor, Jensen พร้อมทั้งวัดผลการดำเนินงานผู้ดูแลกองทุนความสามารถด้านจังหวะเวลาการลงทุน
 ด้วยแบบจำลองสมการถดถอยกำลังสอง ของ Treynor and Mazuy และ Henriksson & Merton
-Chick here >> https://github.com/Noramon22/IS_masterdegree_FE/blob/main/Peper_Noramon-Final.pdf
+
+      ### Chick here >> https://github.com/Noramon22/IS_masterdegree_FE/blob/main/Peper_Noramon-Final.pdf
